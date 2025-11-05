@@ -11,15 +11,14 @@
 ---
 
 # Deskripsi Aplikasi
-QuizMaster adalah aplikasi kuis interaktif berbasis Flutter yang memungkinkan pengguna menjawab pertanyaan pilihan ganda dengan sistem skor dan tampilan hasil akhir.  
-Aplikasi ini dibuat untuk melatih pengetahuan umum pengguna dengan pengalaman yang menyenangkan dan responsif.
+aplikasi quiz sederhana dan praktis
 
 ---
 
 # Credit
 - https://pin.it/6VAy0epvx
-- Font: [Nama font dan sumber, misalnya Google Fonts]
-- Data contoh: [Jika ada, sebutkan sumber dataset atau konten]
+- Font: Noto serif, Google Fonts
+
 
 ---
 
