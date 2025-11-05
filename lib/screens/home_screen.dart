@@ -33,7 +33,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 const SizedBox(height: 30),
 
                 const Text(
-                  "Kuis Pilihan Ganda",
+                  "KUIS CAPCIPCUP",
                   style: TextStyle(
                     fontSize: 28,
                     fontWeight: FontWeight.bold,
@@ -44,7 +44,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 ),
                 const SizedBox(height: 8),
                 const Text(
-                  "tes tes tipis tipis je",
+                  "semoga berhasil",
                   style: TextStyle(
                     fontSize: 16,
                     color: Colors.white70,
@@ -59,7 +59,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   decoration: InputDecoration(
                     filled: true,
                     fillColor: Colors.white.withOpacity(0.15),
-                    labelText: "Masukkan Nama bre",
+                    labelText: "Masukkan Nama Bre",
                     labelStyle: const TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.bold,
