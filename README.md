@@ -23,12 +23,14 @@ aplikasi quiz sederhana dan praktis
 ---
 
 # Screenshot / Video Aplikasi
-![Tampilan Aplikasi](assets/screenshot1.png)  
-[Atau tambahkan link video demo di sini]
+![Tampilan Aplikasi]C:\Users\User\Documents\Coding Divay\UTS lab\project\assets\images\home screen.jpg  
+C:\Users\User\Documents\Coding Divay\UTS lab\project\assets\images\quiz screen.jpg
+C:\Users\User\Documents\Coding Divay\UTS lab\project\assets\images\finish.jpg
+C:\Users\User\Documents\Coding Divay\UTS lab\project\assets\images\quiz sreen.jpg
+
 
 ---
 
 # Link Mockup / Prototype
-[Masukkan link dari Figma atau Canva jika ada, misalnya:]  
-👉 [https://www.figma.com/file/...](https://www.figma.com/file/...)
+
 
