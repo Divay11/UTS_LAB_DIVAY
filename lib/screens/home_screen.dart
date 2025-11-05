@@ -33,7 +33,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 const SizedBox(height: 30),
 
                 const Text(
-                  "KUIS CAPCIPCUP",
+                  "QUIZXZ",
                   style: TextStyle(
                     fontSize: 28,
                     fontWeight: FontWeight.bold,

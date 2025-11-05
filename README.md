@@ -6,7 +6,7 @@
 ---
 
 # Nama Aplikasi
-**Quiz Flutter App**
+**Quizxz**
 
 ---
 
@@ -23,7 +23,7 @@ aplikasi quiz sederhana dan praktis
 ---
 
 # Screenshot / Video Aplikasi
-![Tampilan Aplikasi]C:\Users\User\Documents\Coding Divay\UTS lab\project\assets\images\home screen.jpg  
+![Tampilan Aplikasi]home screen.jpg  
 C:\Users\User\Documents\Coding Divay\UTS lab\project\assets\images\quiz screen.jpg
 C:\Users\User\Documents\Coding Divay\UTS lab\project\assets\images\finish.jpg
 C:\Users\User\Documents\Coding Divay\UTS lab\project\assets\images\quiz sreen.jpg
